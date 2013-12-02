@@ -1,0 +1,45 @@
+
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Corben', Georgia, Times, serif;
+    color: #34667F;
+}
+p, div {
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+    color: #black;
+}
+
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.hero-unit h1{
+	font-size: 50px;
+}
+
+.btn{
+	background-color: #FF0000;
+	border-color: none;
+	background-image: none;
+	color: white;
+}
+
+.btn:hover{
+	background-color: #FF7373;
+	color: white;
+}
+
+.btn-primary{
+	background-color: #9FEE00;
+}
+
+.btn-primary:hover{
+	background-color: #C9F76F;
+}
+
+#whiteout {
+ 	background: url(../img/grey.png) repeat 0 0;
+	padding: 20px;
+}
