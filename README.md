@@ -6,7 +6,7 @@ information systems. BP-SF locator implements the S-FIT technique
 developped by Professor Kelly Lyons of the University of Toronto and
 her former PhD student, Lysanne Lessard, and was designed as part of
 Allison Moore's Information Systems Design project while completing
-her MI at UofT, with help from @preinheimer.
+her MI at UofT, with help from [Paul Reinheimer](https://github.com/preinheimer).
 
 The core foundation of the BP-SF Locator consists of Business Process
 Diagrams (BPDs) saved as Scalable Vector Graphics (SVG) files, which
