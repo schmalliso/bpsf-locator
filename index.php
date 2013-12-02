@@ -24,7 +24,9 @@
                 
 <?php
 
-$message = new bpmn('./attempt2.svg');
+// TODO: file to be analyzed is hard coded into the code - this should be not the case
+
+$message = new bpmn('/sample-diagrams/attempt2.svg');
 
 // this is the array that will track which SFIT components are present
 
